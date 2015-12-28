@@ -1,0 +1,3 @@
+This project will implement the heat equation with serial and parallel code for performance comparisons.  The serial code is written in c, and the parallel code is written with cuda to be executed on nvidia gpu's.
+
+I will begin with a single GPU, then work up to multiple GPU's.  Ultimately I will want to expand the data set across a GPU cluster, which I am currently building as part of my research project.
